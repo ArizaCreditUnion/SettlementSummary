@@ -1,0 +1,14 @@
+/home/lwalker/Development/SettlementSummary/src/SettlementSummary.ConsoleApp/bin/Debug/netcoreapp2.2/SettlementSummary.ConsoleApp.deps.json
+/home/lwalker/Development/SettlementSummary/src/SettlementSummary.ConsoleApp/bin/Debug/netcoreapp2.2/SettlementSummary.ConsoleApp.runtimeconfig.json
+/home/lwalker/Development/SettlementSummary/src/SettlementSummary.ConsoleApp/bin/Debug/netcoreapp2.2/SettlementSummary.ConsoleApp.runtimeconfig.dev.json
+/home/lwalker/Development/SettlementSummary/src/SettlementSummary.ConsoleApp/bin/Debug/netcoreapp2.2/SettlementSummary.ConsoleApp.dll
+/home/lwalker/Development/SettlementSummary/src/SettlementSummary.ConsoleApp/bin/Debug/netcoreapp2.2/SettlementSummary.ConsoleApp.pdb
+/home/lwalker/Development/SettlementSummary/src/SettlementSummary.ConsoleApp/bin/Debug/netcoreapp2.2/SettlementSummary.ClassLib.dll
+/home/lwalker/Development/SettlementSummary/src/SettlementSummary.ConsoleApp/bin/Debug/netcoreapp2.2/SettlementSummary.ClassLib.pdb
+/home/lwalker/Development/SettlementSummary/src/SettlementSummary.ConsoleApp/obj/Debug/netcoreapp2.2/SettlementSummary.ConsoleApp.csprojAssemblyReference.cache
+/home/lwalker/Development/SettlementSummary/src/SettlementSummary.ConsoleApp/obj/Debug/netcoreapp2.2/SettlementSummary.ConsoleApp.csproj.CoreCompileInputs.cache
+/home/lwalker/Development/SettlementSummary/src/SettlementSummary.ConsoleApp/obj/Debug/netcoreapp2.2/SettlementSummary.ConsoleApp.AssemblyInfoInputs.cache
+/home/lwalker/Development/SettlementSummary/src/SettlementSummary.ConsoleApp/obj/Debug/netcoreapp2.2/SettlementSummary.ConsoleApp.AssemblyInfo.cs
+/home/lwalker/Development/SettlementSummary/src/SettlementSummary.ConsoleApp/obj/Debug/netcoreapp2.2/SettlementSummary.ConsoleApp.csproj.CopyComplete
+/home/lwalker/Development/SettlementSummary/src/SettlementSummary.ConsoleApp/obj/Debug/netcoreapp2.2/SettlementSummary.ConsoleApp.dll
+/home/lwalker/Development/SettlementSummary/src/SettlementSummary.ConsoleApp/obj/Debug/netcoreapp2.2/SettlementSummary.ConsoleApp.pdb
